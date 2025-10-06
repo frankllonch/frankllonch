@@ -75,4 +75,4 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=frankllonch&style=flat-square&color=00bfa6)
-![3D Contributions](https://raw.githubusercontent.com/frankllonch/frankllonch/main/profile-3d-contrib/profile-green-animate.svg)
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankllonch&show_icons=true&count_private=true)
