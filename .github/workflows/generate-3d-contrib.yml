@@ -3,7 +3,7 @@ name: Generate 3D Contribution Graph
 on:
   schedule:
     - cron: "0 0 * * *" # runs daily at midnight UTC
-  workflow_dispatch: # allows manual trigger
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,23 +11,20 @@ jobs:
     name: Generate 3D profile
 
     steps:
-      # Step 1: Checkout your repo
       - uses: actions/checkout@v3
 
-      # Step 2: Generate the 3D contribution graph
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # used by action to fetch data
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: frankllonch
 
-      # Step 3: Commit and push the generated SVGs using your PAT
       - name: Commit & Push
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "update profile 3d graph" || echo "No changes to commit"
-          git remote set-url origin https://PAT_TOKEN@github.com/frankllonch/frankllonch.git
+          git remote set-url origin https://${PAT_TOKEN}@github.com/frankllonch/frankllonch.git
           git push
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
