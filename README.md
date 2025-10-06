@@ -1,16 +1,78 @@
-## Hi there 👋
+<p align="center">
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=frankllonch&show_icons=true&hide_border=false&line_height=20&title_color=00bfa6&icon_color=00bfa6&show_owner=true"/>
+</p>
 
-<!--
-**frankllonch/frankllonch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi there / ¡Hola!
+🧠 My name is **Frank Llonch** — I'm a **mathematical engineer** focused on data science, big data, cybersecurity, and all things Python & Data.  
+📍 Based between **Barcelona & Madrid, Spain**.  
+💻 Passionate about building meaningful data-driven solutions and exploring automation, AI, and digital security.  
+🎯 Always learning, improving, and collaborating on cool open-source projects.  
+
+> 💬 *Me llamo Frank, soy ingeniero matemático especializado en ciencia de datos, big data y ciberseguridad.  
+> Vivo entre Barcelona y Madrid, y me encanta crear soluciones basadas en datos y en Python.*
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=frankllonch&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=frankllonch&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧩 Languages & Tools Summary
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankllonch&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📬 Contact
+<p align="center">
+  <a href="mailto:llonchfrank@gmail.com?subject=[GitHub]%20Contact%20from%20profile&body=Hi%20Frank%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect...">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/frank-llonch-2b9bb7295/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🎶 Now Playing / Escuchando ahora
+*(Spotify integration coming soon — we’ll connect it together 🎧)*  
+<p align="center">
+  <img height="75" src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem"/>
+</p>
+
+---
+
+### ⚡ About Me / Sobre mí
+🧩 Data Engineer & Problem Solver  
+📊 Obsessed with structured data and clean code  
+🚀 Curious mind, creative projects, and collaborative spirit  
+
+> *Apasionado por los datos, el código limpio y los proyectos con impacto.*
+
+> *Apasionado por los datos, el código limpio y los proyectos con impacto.*
+
+---
+
+![](https://komarev.com/ghpvc/?username=frankllonch&style=flat-square&color=00bfa6)
+![](./profile-3d-contrib/profile-green-animate.svg)
