@@ -29,7 +29,9 @@ jobs:
           git config --local user.email "actions@github.com"
           git add -A
           git commit -m "update profile 3d graph" || echo "No changes to commit"
-          # Remove old remote and add new one using PAT
+          # Remove old remote
           git remote remove origin
+          # Add remote using PAT
           git remote add origin https://${PAT_TOKEN}@github.com/frankllonch/frankllonch.git
-          git push origin HEAD:main
+          # Push explicitly to main
+          git push origin main
