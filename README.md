@@ -58,7 +58,7 @@
 
 ### ⚡ About Me / Sobre mí
 🧩 Data Engineer & Problem Solver  
-📊 Obsessed with structured data and clean code  
+🐋 Obsessed with the sea 
 🚀 Curious mind, creative projects, and collaborative spirit  
 
 > *Apasionado por los datos, el código limpio y los proyectos con impacto.*
