@@ -1,3 +1,15 @@
+### 👋 Hi there / ¡Hola!
+🧠 My name is **Frank Llonch** — I'm a **mathematical engineer** focused on data science, big data, cybersecurity, and all things Python & Data.  
+📍 Based between **Barcelona & Madrid, Spain**.  
+💻 Passionate about building meaningful data-driven solutions and exploring automation, AI, and digital security.  
+🎯 Always learning, improving, and collaborating on cool open-source projects.  
+
+> 💬 *Me llamo Frank, soy ingeniero matemático especializado en ciencia de datos, big data y ciberseguridad.  
+> Vivo entre Barcelona y Madrid, y me encanta crear soluciones basadas en datos y en Python.*
+
+  
+  
+  
   <p align="center">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=frankllonch&show_icons=true&hide_border=false&line_height=20&title_color=00bfa6&icon_color=00bfa6&show_owner=true"/>
 </p>
