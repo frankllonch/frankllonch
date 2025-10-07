@@ -45,15 +45,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🎶 Now Playing / Escuchando ahora
-*(Spotify integration coming soon — we’ll connect it together 🎧)*  
-<p align="center">
-  <img height="75" src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem"/>
-</p>
-
 ---
 
 ### ⚡ About Me / Sobre mí
