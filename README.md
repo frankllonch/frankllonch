@@ -52,5 +52,3 @@ Building a tables-parser using AI agents: https://github.com/jordillonx/tables-p
 
 > *Apasionado por los datos, el código limpio y los proyectos con impacto.*
 
-![](https://komarev.com/ghpvc/?username=frankllonch&style=flat-square&color=00bfa6)
-![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankllonch&show_icons=true&count_private=true)
