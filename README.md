@@ -11,7 +11,10 @@
 
 Melanoma detection through neural networks: https://github.com/frankllonch/REDES-NEURONALES-MELANOMA
 
-Building a tables-parser using AI agents: https://github.com/jordillonx/tables-parser
+Building a website to study my exams through Django and AI:  https://github.com/frankllonch/testifierAI 
+The website uploaded in Vercel: https://testifier-ai.vercel.app/
+
+Building a tables-parser using AI agents: PRIVATE REPO ATM
   
   
   <p align="center">
