@@ -7,7 +7,11 @@
 > 💬 *Me llamo Frank, soy ingeniero matemático especializado en ciencia de datos, big data y ciberseguridad.  
 > Vivo entre Barcelona y Madrid, y me encanta crear soluciones basadas en datos y en Python.*
 
-  
+## 💻 Currently working on:
+
+Melanoma detection through neural networks: https://github.com/frankllonch/REDES-NEURONALES-MELANOMA
+
+Building a tables-parser using AI agents: https://github.com/jordillonx/tables-parser
   
   
   <p align="center">
@@ -24,15 +28,10 @@
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
  
-
---
-
 ### 🧩 Languages & Tools Summary
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankllonch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ### 📬 Contact
 <p align="center">
@@ -43,7 +42,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
 
 ### ⚡ About Me / Sobre mí
 🧩 Data Engineer & Problem Solver  
@@ -53,8 +51,6 @@
 > *Apasionado por los datos, el código limpio y los proyectos con impacto.*
 
 > *Apasionado por los datos, el código limpio y los proyectos con impacto.*
-
----
 
 ![](https://komarev.com/ghpvc/?username=frankllonch&style=flat-square&color=00bfa6)
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankllonch&show_icons=true&count_private=true)
