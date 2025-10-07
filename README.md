@@ -25,19 +25,7 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
  
 
----
-
-
-
-
-### 👋 Hi there / ¡Hola!
-🧠 My name is **Frank Llonch** — I'm a **mathematical engineer** focused on data science, big data, cybersecurity, and all things Python & Data.  
-📍 Based between **Barcelona & Madrid, Spain**.  
-💻 Passionate about building meaningful data-driven solutions and exploring automation, AI, and digital security.  
-🎯 Always learning, improving, and collaborating on cool open-source projects.  
-
-> 💬 *Me llamo Frank, soy ingeniero matemático especializado en ciencia de datos, big data y ciberseguridad.  
-> Vivo entre Barcelona y Madrid, y me encanta crear soluciones basadas en datos y en Python.*
+--
 
 ### 🧩 Languages & Tools Summary
 <p align="center">
