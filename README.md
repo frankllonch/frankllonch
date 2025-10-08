@@ -14,6 +14,8 @@ Melanoma detection through neural networks: https://github.com/frankllonch/REDES
 Building a website to study my exams through Django and AI:  https://github.com/frankllonch/testifierAI 
 The website uploaded in Vercel: https://testifier-ai.vercel.app/
 
+Starred in: https://www.whalfred.com/
+
 Building a tables-parser using AI agents: PRIVATE REPO ATM
   
   
