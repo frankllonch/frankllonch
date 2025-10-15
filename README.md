@@ -10,7 +10,8 @@
 ## 💻 Currently working on:
 
 Melanoma detection through neural networks: https://github.com/frankllonch/melanomator
-try my app to see if you have a melanoma (better safe than sorry):  https://melanomapp.streamlit.app/ 
+
+Try my app to see if you have a melanoma (better safe than sorry):  https://melanomapp.streamlit.app/ 
 
 Building a website to study my exams through Django and AI:  https://github.com/frankllonch/testifierAI 
 The website uploaded in Vercel: https://testifier-ai.vercel.app/
