@@ -9,15 +9,15 @@
 
 ## 💻 Currently working on:
 
-Melanoma detection through neural networks: https://github.com/frankllonch/melanomator
+### Melanoma detection through neural networks: https://github.com/frankllonch/melanomator
 
 Try my app to see if you have a melanoma (better safe than sorry):  https://melanomapp.streamlit.app/ 
 
-Building a website to study my exams through Django and AI:  https://github.com/frankllonch/testifierAI 
+### Building a website to study my exams through Django and AI:  https://github.com/frankllonch/testifierAI 
 
 The website uploaded in Vercel (test your AI knowledge) : https://testifier-ai.vercel.app/
 
-Starred in: https://www.whalfred.com/
+### Starred in: https://www.whalfred.com/
 
 Building a tables-parser using AI agents: PRIVATE REPO ATM
   
