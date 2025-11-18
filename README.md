@@ -2,7 +2,7 @@
 🧠 My name is **Frank Llonch** — I'm a **mathematical engineer** focused on data science, big data, cybersecurity, and all things Python & Data.  
 📍 Based between **Barcelona & Madrid, Spain**.  
 
-## check out my personal website: frankllonch.vercel.app
+## check out my personal website: [frankllonch.vercel.app](https://frankllonch.vercel.app/)
 
 ## Currently working on:
 
